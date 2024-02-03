@@ -6,4 +6,5 @@ simulation done due to some boardgame containing this mechanic
 
  {'Total 0': '3.7%', 'Total 1': '11.1%', 'Total 2': '22.2%', 'Total 3': '25.9%', 
  'Total 4': '22.3%', 'Total 5': '11.1%', 'Total 6': '3.7%'}  
-![Uploading image.png…]()
+![image](https://github.com/WildSphee/3_dice_roll_simulation/assets/38903045/4a79378a-2a70-4a19-a82a-781d8eac4b99)
+
