@@ -1,6 +1,6 @@
 ## This script simulated the results of rolling 3 dices that contains 00, 11, and 22
 ## simulation done due to some boardgame containing this mechanic
-```json
+```
 {'Total 0': 73945, 'Total 1': 222370, 'Total 2': 443533, 'Total 3': 518986, 
  'Total 4': 445166, 'Total 5': 222338, 'Total 6': 73662}
 
